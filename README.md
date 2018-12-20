@@ -11,30 +11,34 @@ driver.
 [Python  3.7.1 or greater](https://www.python.org/downloads/)
 ### Getting Started
 #### Clone the repository: 
-'''
+```
 git clone https://github.com/erkearney/Raspberry-Pi-Driverless-Car.git
-'''
+```
 #### Navigate to the project directory
-'''
+
+```
 cd Raspberry-Pi-Driverless-Car
-'''
+```
 #### Install dependencies
-'''
+
+```
 python setup.py
-'''
+```
 #### Run the project
-'''
+
+```
 python driverless_car.py
-'''
-## Build With
+```
+## Built With
+[python](https://www.python.org/)
 [Raspberry Pi](https://www.raspberrypi.org/)
 [Webcam PH](https://www.amazon.com/dp/B01ER2SKFS/ref=cm_sw_r_cp_ep_dp_y0H8Bb1N6AZ89)
 [OpenCV (Python)](https://opencv.org/)
 [Numpy](http://www.numpy.org/)
 
 ## Authors
-* **Christopher Erickson** - Hardware, Writting Proposals and Grants [e-mail](cerick25@msudenver.edu)
-* **Eric Kearney** - Software [e-mail](ekearney@msudenver.edu), [GitHub](https://github.com/erkearney)
+* **Christopher Erickson** - Hardware, Writting Proposals and Grants -- [e-mail](cerick25@msudenver.edu)
+* **Eric Kearney** - Software -- [e-mail](ericrkearney@gmail.com), [GitHub](https://github.com/erkearney)
 
 ## License
 This program is free software: you can redistribute it and/or modify
@@ -51,5 +55,5 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## Acknowledgements
-* **Dr. Megan Hughes-Zarzo, Directory of the Honor's Program at Metropolitan State University of Denver**
-* **2018 Western Regional Honor's Conference**
+* **Dr. Megan Hughes-Zarzo, Director of the Honor's Program at Metropolitan State University of Denver -- [e-mail](mhughe47@msudenver.edu)**
+* **[2018 Western Regional Honor's Conference](https://wrhcouncil.org/conferences/)**
