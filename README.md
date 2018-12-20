@@ -31,10 +31,15 @@ python driverless_car.py
 ```
 ## Built With
 [python](https://www.python.org/)
+
 [Raspberry Pi](https://www.raspberrypi.org/)
+
 [Webcam PH](https://www.amazon.com/dp/B01ER2SKFS/ref=cm_sw_r_cp_ep_dp_y0H8Bb1N6AZ89)
+
 [OpenCV (Python)](https://opencv.org/)
+
 [Numpy](http://www.numpy.org/)
+
 
 ## Authors
 * **Christopher Erickson** - Hardware, Writting Proposals and Grants -- [e-mail](cerick25@msudenver.edu)
