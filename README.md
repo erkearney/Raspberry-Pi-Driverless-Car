@@ -34,9 +34,9 @@ python driverless_car.py
 
 [Raspberry Pi](https://www.raspberrypi.org/)
 
-[Webcam PH](https://www.amazon.com/dp/B01ER2SKFS/ref=cm_sw_r_cp_ep_dp_y0H8Bb1N6AZ89)
+[Webcam (Placeholder)](https://www.amazon.com/dp/B01ER2SKFS/ref=cm_sw_r_cp_ep_dp_y0H8Bb1N6AZ89)
 
-[OpenCV (Python)](https://opencv.org/)
+[OpenCV (Python interface)](https://opencv.org/)
 
 [Numpy](http://www.numpy.org/)
 
