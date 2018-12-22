@@ -30,15 +30,16 @@ python setup.py
 python driverless_car.py
 ```
 ## Built With
-[python](https://www.python.org/)
+[![python](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/python_logo.png)](https://www.python.org/)
 
-[Raspberry Pi](https://www.raspberrypi.org/)
+[![Raspberry Pi](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/Raspberry_pi_logo.png)](https://www.raspberrypi.org/)
 
 [Webcam (Placeholder)](https://www.amazon.com/dp/B01ER2SKFS/ref=cm_sw_r_cp_ep_dp_y0H8Bb1N6AZ89)
 
-[OpenCV (Python interface)](https://opencv.org/)
+[![OpenCV (Python interface)](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/OpenCV_logo.png)](https://opencv.org/)
 
-[Numpy](http://www.numpy.org/)
+[![NumPy](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/NumPy_logo.png)](http://www.numpy.org/)
+
 
 
 ## Authors
