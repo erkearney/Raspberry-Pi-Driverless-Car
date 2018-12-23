@@ -83,4 +83,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## Acknowledgements
 * **Dr. Megan Hughes-Zarzo, Director of the Honor's Program at Metropolitan State University of Denver -- [e-mail](mhughe47@msudenver.edu)**
-* **[2018 Western Regional Honor's Conference](https://wrhcouncil.org/conferences/)**
+* **[2019 Western Regional Honor's Conference](https://wrhcouncil.org/conferences/)**
