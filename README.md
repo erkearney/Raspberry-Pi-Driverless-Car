@@ -32,7 +32,7 @@ python driverless_car.py
 ## Built With
 [![python](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/python_logo.png)](https://www.python.org/)
 
-Python -- The Programming Language the project is written in
+Python -- The Language this project is written in
 
 [![Raspberry Pi](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/Raspberry_pi_logo.png)](https://www.raspberrypi.org/)
 
@@ -40,11 +40,11 @@ Raspberry Pi Model 3A+ -- The hardware the code runs on
 
 [![Webcam (Placeholder)](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/Webcam_image.png)](https://www.amazon.com/dp/B01ER2SKFS/ref=cm_sw_r_cp_ep_dp_y0H8Bb1N6AZ89)
 
-Webcam (current model is placeholder) -- Gets input video for the self-driving cars
+Camera (current model is placeholder) -- Gets input video for the self-driving cars
 
 [![Remote Control Cars (Placeholder)](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/RC_cars.png)](https://amazon.com/Remote-Control-Lamborghini-Reventon-Scale/dp/B001TMBQYC/ref=sr_1_4?ie=UTF8&qid=1545527318&sr=8-4&keywords=rc+cars+lamborghini)
 
-Remote Control Cars -- Automatically driven by this project
+Remote Control Cars (current model is placeholder) -- Automatically driven by this project
 
 [![ARDUINO UNO R3 [A000066]](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/Arduino_uno.png)](https://amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?ie=UTF8&qid=1545527262&sr=8-3&keywords=ARDUINO+uno)
 
