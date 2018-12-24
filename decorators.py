@@ -4,11 +4,15 @@ def logger(orig_func):
     """ 
     Logs orig_func out to a file called orig_func.log
     
-    Args:
-        orig_func (function): The function to be logged
+    Parameters
+    ----------
+    orig_func : function
+        The function to be logged
 
-    Returns:
-        wrapper (function): The un-executed form of orig_func
+    Returns
+    ----------
+    wrapper : function
+        The un-executed form of orig_func
     """
     import logging
     logging.basicConfig(filename="{}.log".format(orig_func.__name__), 
@@ -29,11 +33,15 @@ def timer(orig_func):
     """
     Calculates and prints how long orig_func took to run.
 
-    Args:
-        orig_func (function): The function to be timed
+    Parameters
+    ----------
+    orig_func : function
+        The function to be timed
 
-    Returns:
-        wrapper (function): The un-executed form of orig_func
+    Returns
+    ---------
+    wrapper : function
+        The un-executed form of orig_func
     """
 
     import time
