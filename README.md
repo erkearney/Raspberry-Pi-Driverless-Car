@@ -46,17 +46,21 @@ Camera (current model is placeholder) -- Gets input video for the self-driving c
 
 Remote Control Cars (current model is placeholder) -- Automatically driven by this project
 
-[![ARDUINO UNO R3 [A000066]](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/Arduino_uno.png)](https://amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?ie=UTF8&qid=1545527262&sr=8-3&keywords=ARDUINO+uno)
+[![ARDUINO UNO R3 [A000066]](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/Arduino_logo.png)](https://amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?ie=UTF8&qid=1545527262&sr=8-3&keywords=ARDUINO+uno)
 
 ARDUINO -- Serves as the interface between the Raspberry Pi and the RC car
 
 [![OpenCV (Python interface)](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/OpenCV_logo.png)](https://opencv.org/)
 
-OpenCV (Python interface) -- For Image/Video processing
+OpenCV (Python API) -- For Image/Video processing
 
 [![NumPy](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/NumPy_logo.png)](http://www.numpy.org/)
 
 NumPy -- For matrix/vector manipulation
+
+[![TensorFlow](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/Tensorflow_logo.png)](https://www.tensorflow.org/api_docs/)
+
+TensorFlow (Python API) -- For machine learning
 
 [![Sphinx](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/Sphinx_logo.png)](http://www.sphinx-doc.org/en/master/)
 
