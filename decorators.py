@@ -9,33 +9,6 @@ def logger(orig_func):
 
     Returns:
         wrapper (function): The un-executed form of orig_func
-
-    Examples:
-        @logger
-        def main():
-            print("Hello world!")
-
-    Whenever main is called, a file called main.log will be created, if it
-    doesn't already exist, each line in main.log will read as:
-    "Ran with args: (), and kwargs: {}"
-
-    @logger
-    def sum(x, y):
-        return x + y
-
-    sum(2, 3)
-    
-    A file called sum.log will be created, which will read as:
-    "Ran with args: (2, 3), and kwargs: {}"
-
-    @logger
-    def square(num)
-        return num ** 2
-
-    sqaure(num=5)
-
-    A file called square.log will be created, which will read as:
-    "Ran with args: (), and kwargs: {'num', 5}
     """
     import logging
     logging.basicConfig(filename="{}.log".format(orig_func.__name__), 
@@ -61,15 +34,6 @@ def timer(orig_func):
 
     Returns:
         wrapper (function): The un-executed form of orig_func
-
-    Example
-        @timer
-        def main():
-            pass
-
-        main()
-
-    prints "main ran in: 4.76837158203125e-07 seconds"
     """
 
     import time
