@@ -70,8 +70,8 @@ The documentation can be viewed using the index.html file in the docs/_build dir
 
 
 ## Authors
-* **Christopher Erickson** - Hardware, -- [E-mail](cerick25@msudenver.edu)
-* **Eric Kearney** - Software -- [E-mail](ericrkearney@gmail.com), [GitHub](https://github.com/erkearney)
+* **Christopher Erickson** -- Hardware, -- [E-mail](cerick25@msudenver.edu)
+* **Eric Kearney** -- Software -- [E-mail](ericrkearney@gmail.com), [GitHub](https://github.com/erkearney)
 
 ## License
 This program is free software: you can redistribute it and/or modify
@@ -91,4 +91,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 * **Dr. Megan Hughes-Zarzo, Director of the Honor's Program at Metropolitan State University of Denver -- [E-mail](mhughe47@msudenver.edu)**
 * **Jennifer O'Dell, Coordinator of the Honor's Program at Metropolitan State Univerty of Denver -- Coordinated student travel -- [E-mail](jlutes1@msudenver.edu)**
 * **[2019 Western Regional Honor's Conference](https://wrhcouncil.org/conferences/)**
-* **Metropolitan State University of Denver Student Activities -- Funded student travel
+* **Metropolitan State University of Denver Student Activities -- Funded student travel**
