@@ -30,20 +30,23 @@ python setup.py
 python driverless_car.py
 ```
 ## Built With
-[![python](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/python_logo.png)](https://www.python.org/)[![Raspberry Pi](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/Raspberry_pi_logo.png)](https://www.raspberrypi.org/)[![Webcam (Placeholder)](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/Webcam_image.png)](https://www.amazon.com/dp/B01ER2SKFS/ref=cm_sw_r_cp_ep_dp_y0H8Bb1N6AZ89)[![Remote Control Cars (Placeholder)](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/RC_cars.png)](https://amazon.com/Remote-Control-Lamborghini-Reventon-Scale/dp/B001TMBQYC/ref=sr_1_4?ie=UTF8&qid=1545527318&sr=8-4&keywords=rc+cars+lamborghini)
-[![ARDUINO UNO R3 [A000066]](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/Arduino_logo.png)](https://amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?ie=UTF8&qid=1545527262&sr=8-3&keywords=ARDUINO+uno)[![OpenCV (Python interface)](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/OpenCV_logo.png)](https://opencv.org/)
-[![NumPy](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/NumPy_logo.png)](http://www.numpy.org/)[![TensorFlow](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/Tensorflow_logo.png)](https://www.tensorflow.org/api_docs/)
-[![Sphinx](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/Sphinx_logo.png)](http://www.sphinx-doc.org/en/master/)
+### Software
+[![python](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/python_logo.png)](https://www.python.org/)[![NumPy](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/NumPy_logo.png)](http://www.numpy.org/)[![TensorFlow](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/Tensorflow_logo.png)](https://www.tensorflow.org/api_docs/)[![OpenCV (Python interface)](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/OpenCV_logo.png)](https://opencv.org/)[![Sphinx](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/Sphinx_logo.png)](http://www.sphinx-doc.org/en/master/)
 
-* **Python -- The Language this project is written in**
-* **Raspberry Pi Model 3A+ -- The hardware the code runs on**
-* **Camera (current model is placeholder) -- Gets input video for the self-driving cars**
-* **Remote Control Cars (current model is placeholder) -- Automatically driven by this project**
-* **ARDUINO -- Serves as the interface between the Raspberry Pi and the RC car**
-* **OpenCV (Python API) -- For Image/Video processing**
-* **NumPy -- For matrix/vector manipulation**
-* **TensorFlow (Python API) -- For machine learning**
-* **Sphinx -- For generating code documentation**
+* **[Python](https://www.python.org/) -- The Language this project is written in**
+* **[NumPy](http://www.numpy.org/) -- For matrix/vector manipulation**
+* **[TensorFlow (Python API)](https://www.tensorflow.org/api_docs/) -- For machine learning**
+* **[OpenCV (Python API)](https://opencv.org/) -- For Image/Video processing**
+* **[Sphinx](http://www.sphinx-doc.org/en/master/) -- For generating code documentation**
+
+### Hardware
+[![Raspberry Pi](https://github.com/erkearney/Raspberry-Pi-Driverless-Car/blob/master/img/Raspberry_pi_logo.png)](https://www.raspberrypi.org/)[![Webcam (Placeholder)](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/Webcam_image.png)](https://www.amazon.com/dp/B01ER2SKFS/ref=cm_sw_r_cp_ep_dp_y0H8Bb1N6AZ89)[![Remote Control Cars (Placeholder)](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/RC_cars.png)](https://amazon.com/Remote-Control-Lamborghini-Reventon-Scale/dp/B001TMBQYC/ref=sr_1_4?ie=UTF8&qid=1545527318&sr=8-4&keywords=rc+cars+lamborghini)[![ARDUINO UNO R3 [A000066]](https://raw.githubusercontent.com/erkearney/Raspberry-Pi-Driverless-Car/master/img/Arduino_logo.png)](https://amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?ie=UTF8&qid=1545527262&sr=8-3&keywords=ARDUINO+uno)
+
+* **[Raspberry Pi Model 3A+](https://www.raspberrypi.org/) -- The hardware the code runs on**
+* **[Camera (current model is placeholder)](https://www.amazon.com/dp/B01ER2SKFS/ref=cm_sw_r_cp_ep_dp_y0H8Bb1N6AZ89) -- Gets input video for the self-driving cars**
+* **[Remote Control Cars (current model is placeholder)](https://amazon.com/Remote-Control-Lamborghini-Reventon-Scale/dp/B001TMBQYC/ref=sr_1_4?ie=UTF8&qid=1545527318&sr=8-4&keywords=rc+cars+lamborghini) -- Automatically driven by this project**
+* **[ARDUINO](https://amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?ie=UTF8&qid=1545527262&sr=8-3&keywords=ARDUINO+uno) -- Serves as the interface between the Raspberry Pi and the RC car**
+
 
 ## Documentation
 This project uses [NumPy Documentation Style](https://numpydoc.readthedocs.io/en/latest/format.html#docstring-standard), it also uses [Sphinx](http://www.sphinx-doc.org/en/master/) to generate documentation.
