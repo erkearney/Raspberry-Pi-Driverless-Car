@@ -11,7 +11,7 @@ driver.
 [Python  3.7.1 or greater](https://www.python.org/downloads/)
 ### Getting Started
 #### Setup your Raspberry Pi
-* **Install an Operating System, we used [Raspbian](https://www.raspberrypi.org/downloads/raspbian/**
+* **Install an Operating System, we used [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)**
 * **Mount Raspbian's boot partition**
 * **Add a file called 'ssh' to the boot partition**
 ```
