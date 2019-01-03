@@ -10,6 +10,27 @@ driver.
 # Prerequisites
 [Python  3.7.1 or greater](https://www.python.org/downloads/)
 ### Getting Started
+#### Setup your Raspberry Pi
+* **Install an Operating System, we used raspbian: https://www.raspberrypi.org/downloads/raspbian/**
+* **Mount Raspbian's boot partition**
+* **Add a file called 'ssh' to the boot partition**
+```
+touch ssh
+```
+* **Use a text editor to create a file called 'wpa_supplicant.conf', this file should have the following lines (replace router_name and password with your WiFi login info):
+```
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+network={
+    ssid="router_name"
+    psk="password"
+    key_mgmt=WPA-PSK
+}
+```
+* **Discover your Pi's assigned IP address by logging into your router, using nmap, or another method**
+* **SSH into the Pi**
+```
+ssh pi@Your.Pi's.IP
+```
 #### Clone the repository: 
 ```
 git clone https://github.com/erkearney/Raspberry-Pi-Driverless-Car.git

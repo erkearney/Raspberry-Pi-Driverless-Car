@@ -33,7 +33,7 @@ class KeyboardCar(object):
             Handles keyboard input and serial output.
         '''
         pygame.init()
-        pygame.display.set_mode((250, 250))
+        #pygame.display.set_mode((250, 250))
         self.loop = True
         self.steer()
 
