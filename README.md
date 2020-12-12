@@ -76,7 +76,7 @@ The documentation can be viewed using the index.html file in the docs/_build dir
 
 
 ## Authors
-* **Christopher Erickson** -- Hardware, -- [E-mail](cerick25@msudenver.edu)
+* **Christopher Erickson** -- Hardware, -- [E-mail](cerick25@msudenver.edu), [GitHub](https://github.com/Christopher-Dauchter)
 * **Eric Kearney** -- Software -- [E-mail](ericrkearney@gmail.com), [GitHub](https://github.com/erkearney)
 
 ## License
